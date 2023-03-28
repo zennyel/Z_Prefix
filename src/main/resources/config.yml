@@ -1,0 +1,14 @@
+Config:
+  tag: '&5[Z_Prefix] '
+  tabPrefix: true
+  above_head: true
+  max_length: 8
+  # the [] color.
+  border_colors: 7
+Blocked:
+  - 'Admin'
+  - 'Creator'
+  - 'Mater'
+  - 'Sex'
+  - 'Badword'
+

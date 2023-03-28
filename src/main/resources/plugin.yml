@@ -1,0 +1,14 @@
+name: Z_Prefix
+version: '${project.version}'
+main: com.zennyel.orion.Z_Prefix
+api-version: 1.19
+commands:
+  setprefix:
+    description: used to user define some prefix.
+  prefix:
+    description: command used to manage user's prefix.
+permissions:
+  prefix.use:
+    description: default permission to use /setprefix.
+  prefix.admin:
+    description: administrator permission to set prefix in other players, and reset.
